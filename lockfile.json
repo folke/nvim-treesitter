@@ -1,135 +1,135 @@
 {
   "ada": {
-    "revision": "f21f13afe0410311be1f78959a25aee393c569c9"
+    "revision": "e8e2515465cc2d7c444498e68bdb9f1d86767f95"
   },
   "agda": {
-    "revision": "c21c3a0f996363ed17b8ac99d827fe5a4821f217"
+    "revision": "d3dc807692e6bca671d4491b3bf5c67eeca8c016"
   },
   "apex": {
-    "revision": "a768c956b6aee72ffebb5df7f7c0b3702eaa2fbd"
+    "revision": "c99ad4b16d112fea91745e3f1b769754239fdaba"
   },
   "arduino": {
-    "revision": "db929fc6822b9b9e1211678d508f187894ce0345"
+    "revision": "afb34b2c65f507932c5c6ddbf0d5a9ca6a772f2f"
   },
   "astro": {
-    "revision": "e122a8fcd07e808a7b873bfadc2667834067daf1"
+    "revision": "4be180759ec13651f72bacee65fa477c64222a1a"
   },
   "awk": {
-    "revision": "374da90decaa60fea7a22490a77440ece6d4161d"
+    "revision": "ba7472152d79a8c916550c80fdbfd5724d07a0c9"
   },
   "bash": {
-    "revision": "1479a4030f1a399c253aee02097576d4af46f23a"
+    "revision": "2fbd860f802802ca76a6661ce025b3a3bca2d3ed"
   },
   "bass": {
     "revision": "27f110dfe79620993f5493ffa0d0f2fe12d250ed"
   },
   "beancount": {
-    "revision": "358e5ecbb87109eef7fd596ea518a4ff74cb9b31"
+    "revision": "384c55ede2a1f13e83d8e18dbef8f11304c379c2"
   },
   "bibtex": {
     "revision": "ccfd77db0ed799b6c22c214fe9d2937f47bc8b34"
   },
   "bicep": {
-    "revision": "3604d8c961ab129d2bfc6dfca56419c236ccdb83"
+    "revision": "0092c7d1bd6bb22ce0a6f78497d50ea2b87f19c0"
   },
   "bitbake": {
-    "revision": "6cb07d98f1cad180b8ea28965e59ee05023a5693"
+    "revision": "a5d04fdb5a69a02b8fa8eb5525a60dfb5309b73b"
   },
   "blueprint": {
-    "revision": "863cea9f83ad5637300478e0559262f1e791684b"
+    "revision": "60ba73739c6083c693d86a1a7cf039c07eb4ed59"
   },
   "c": {
-    "revision": "a2b7bac3b313efbaa683d9a276ff63cdc544d960"
+    "revision": "be23d2c9d8e5b550e713ef0f86126a248462ca6e"
   },
   "c_sharp": {
-    "revision": "1648e21b4f087963abf0101ee5221bb413107b07"
+    "revision": "31a64b28292aac6adf44071e449fa03fb80eaf4e"
   },
   "cairo": {
-    "revision": "6216c6ee5e9fc0649c4bd7b1aedd884a55bdd9ef"
+    "revision": "6238f609bea233040fe927858156dee5515a0745"
   },
   "capnp": {
-    "revision": "dc28c9f4212809eab74d10996086297853eb34e5"
+    "revision": "7b0883c03e5edd34ef7bcf703194204299d7099f"
   },
   "chatito": {
-    "revision": "c80c219da2086696202cec8fc2501c02f4819a3f"
+    "revision": "a461f20dedb43905febb12c1635bc7d2e43e96f0"
   },
   "clojure": {
-    "revision": "6e41628e9d18b19caea1cb1d72aae4ccff5bdfe9"
+    "revision": "f4236d4da8aa92bc105d9c118746474c608e6af7"
   },
   "cmake": {
-    "revision": "73ab4b8e9522f014a67f87f585e820d36fa47408"
+    "revision": "69d7a8b0f7493b0dbb07d54e8fea96c5421e8a71"
   },
   "comment": {
-    "revision": "c9a7e2df7cac2dfb730f766a4f343308f84ff346"
+    "revision": "5d8b29f6ef3bf64d59430dcfe76b31cc44b5abfd"
   },
   "commonlisp": {
-    "revision": "5153dbbc70e4cc2324320c1bdae020d31079c7c0"
+    "revision": "bf2a65b1c119898a1a17389e07f2a399c05cdc0c"
   },
   "cooklang": {
-    "revision": "5e113412aadb78955c27010daa4dbe1d202013cf"
+    "revision": "4ebe237c1cf64cf3826fc249e9ec0988fe07e58e"
   },
   "corn": {
-    "revision": "604d73c38d4c28ca68e9e441ffd405d68cb63051"
+    "revision": "464654742cbfd3a3de560aba120998f1d5dfa844"
   },
   "cpon": {
-    "revision": "f4b3cbc8b0bd4e13035d39940fef09f1392e8739"
+    "revision": "594289eadfec719198e560f9d7fd243c4db678d5"
   },
   "cpp": {
-    "revision": "a90f170f92d5d70e7c2d4183c146e61ba5f3a457"
+    "revision": "0b4aa47f07d958a49260aadc87e8474b03897c23"
   },
   "css": {
-    "revision": "fec7d3757ab8f46a0ffe298be99b16ad5b9fa229"
+    "revision": "f6be52c3d1cdb1c5e4dd7d8bce0a57497f55d6af"
   },
   "csv": {
-    "revision": "6c1957405bd6f7751b050f61367f1094fab91444"
+    "revision": "7eb7297823605392d2bbcc4c09b1cd18d6fa9529"
   },
   "cuda": {
-    "revision": "275cfb95013b88382e11490aef1e7c9b17a95ef7"
+    "revision": "07f2f157d484a27dc91c04cc116f94f6fd4fc654"
   },
   "cue": {
-    "revision": "2df92e6755337e9234ad18ffef37f35d95e2ba9d"
+    "revision": "8a5f273bfa281c66354da562f2307c2d394b6c81"
   },
   "d": {
     "revision": "c2fbf21bd3aa45495fe13247e040ad5815250032"
   },
   "dart": {
-    "revision": "7e447dc18a2d293498670fb5ea16138648c883e5"
+    "revision": "ac0bb849ccd1a923963af47573b5e396736ff582"
   },
   "devicetree": {
-    "revision": "cc26cbf2121a27eaa72a05a795ce38aba4e0f86e"
+    "revision": "fb07e6044ffd36932c57a5be01ba5d6b8a9337bb"
   },
   "dhall": {
     "revision": "affb6ee38d629c9296749767ab832d69bb0d9ea8"
   },
   "diff": {
-    "revision": "c165725c28e69b36c5799ff0e458713a844f1aaf"
+    "revision": "19dd5aa52fe339a1d974768a09ee2537303e8ca5"
   },
   "dockerfile": {
-    "revision": "1800d5a06789797065ba5e7d80712b6bbf5483d7"
+    "revision": "087daa20438a6cc01fa5e6fe6906d77c869d19fe"
   },
   "dot": {
     "revision": "9ab85550c896d8b294d9b9ca1e30698736f08cea"
   },
   "doxygen": {
-    "revision": "a750758da90955c86fcc22fcbb6fa44a7d009865"
+    "revision": "ccd998f378c3f9345ea4eeb223f56d7b84d16687"
   },
   "dtd": {
-    "revision": "9deacbfb79cb3527a0396255beb17e1bba3f2052"
+    "revision": "809266ed1694d64dedc168a18893cc254e3edf7e"
   },
   "ebnf": {
     "revision": "8e635b0b723c620774dfb8abf382a7f531894b40"
   },
   "eds": {
-    "revision": "fde62029d4c715562230070b9af51a9500c2ce10"
+    "revision": "0ad62cb635c2f4353359a88dec9e3a57bbf9f66d"
   },
   "eex": {
     "revision": "f742f2fe327463335e8671a87c0b9b396905d1d1"
   },
   "elixir": {
-    "revision": "a2861e88a730287a60c11ea9299c033c7d076e30"
+    "revision": "c7ae8b77e2749826dcf23df6514f08fdd68c66a3"
   },
   "elm": {
-    "revision": "0694058bf0555adbf5f700ce4868d18e463cb824"
+    "revision": "09dbf221d7491dc8d8839616b27c21b9c025c457"
   },
   "elsa": {
     "revision": "0a66b2b3f3c1915e67ad2ef9f7dbd2a84820d9d7"
@@ -138,73 +138,73 @@
     "revision": "5e7210d945425b77f82cbaebc5af4dd3e1ad40f5"
   },
   "embedded_template": {
-    "revision": "203f7bd3c1bbfbd98fc19add4b8fcb213c059205"
+    "revision": "38d5004a797298dc42c85e7706c5ceac46a3f29f"
   },
   "erlang": {
-    "revision": "4a0ec79b7eb7671efe935cd97967430c34598c7d"
+    "revision": "19ca500fa5a17ab58dc18aa03b50e2db305e7a8a"
   },
   "fennel": {
-    "revision": "517195970428aacca60891b050aa53eabf4ba78d"
+    "revision": "15e4f8c417281768db17080c4447297f8ff5343a"
   },
   "firrtl": {
-    "revision": "2b5adae629c8cba528c7b1e4aa67a8ae28934ea5"
+    "revision": "8503d3a0fe0f9e427863cb0055699ff2d29ae5f5"
   },
   "fish": {
-    "revision": "f9176908c9eb2e11eb684d79e1d00f3b29bd65c9"
+    "revision": "a78aef9abc395c600c38a037ac779afc7e3cc9e0"
   },
   "foam": {
-    "revision": "09e03445f49290450589c5d293610ab39434e3e4"
+    "revision": "04664b40c0dadb7ef37028acf3422c63271d377b"
   },
   "forth": {
-    "revision": "e7d1f8a351fd5e95d9a89a8e87878c49ca14a5b0"
+    "revision": "90189238385cf636b9ee99ce548b9e5b5e569d48"
   },
   "fortran": {
-    "revision": "f73d473e3530862dee7cbb38520f28824e7804f6"
+    "revision": "6b633433fb3f132f21250cf8e8be76d5a6389b7e"
   },
   "fsh": {
-    "revision": "fa3347712f7a59ed02ccf508284554689c6cde28"
+    "revision": "fad2e175099a45efbc98f000cc196d3674cc45e0"
   },
   "func": {
-    "revision": "0834e35ecf8b23fbf9ad15b088af6a897e19d4a8"
+    "revision": "f780ca55e65e7d7360d0229331763e16c452fc98"
   },
   "fusion": {
     "revision": "19db2f47ba4c3a0f6238d4ae0e2abfca16e61dd6"
   },
   "gdscript": {
-    "revision": "03f20b94707a21bed90bb95101684bc4036139ce"
+    "revision": "1f1e782fe2600f50ae57b53876505b8282388d77"
   },
   "git_config": {
     "revision": "9c2a1b7894e6d9eedfe99805b829b4ecd871375e"
   },
   "git_rebase": {
-    "revision": "d8a4207ebbc47bd78bacdf48f883db58283f9fd8"
+    "revision": "bff4b66b44b020d918d67e2828eada1974a966aa"
   },
   "gitattributes": {
-    "revision": "2339ffe87a88d0b7838c015592c8269eb0063140"
+    "revision": "41940e199ba5763abea1d21b4f717014b45f01ea"
   },
   "gitcommit": {
-    "revision": "6856a5fd0ffeff17d83325a8ce4e57811010eff1"
+    "revision": "aa5c279287f0895a7ebc76a06e55ac3e4b2df7c7"
   },
   "gitignore": {
     "revision": "f4685bf11ac466dd278449bcfe5fd014e94aa504"
   },
   "gleam": {
-    "revision": "32c8f1e32aee036583ca09e7e6e4ea881852b42c"
+    "revision": "84fa6b0d53b6dd9414797e659923719799e3b0a8"
   },
   "glimmer": {
-    "revision": "d3031a8294bf331600d5046b1d14e690a0d8ba0c"
+    "revision": "6b25d265c990139353e1f7f97baf84987ebb7bf0"
   },
   "glsl": {
-    "revision": "ec6100d2bdf22363ca8a711a212f2144ea49233f"
+    "revision": "ddc3137a2d775aca93084ff997fa13cc1691058a"
   },
   "go": {
-    "revision": "bbaa67a180cfe0c943e50c55130918be8efb20bd"
+    "revision": "7ee8d928db5202f6831a78f8112fd693bf69f98b"
   },
   "godot_resource": {
-    "revision": "b6ef0768711086a86b3297056f9ffb5cc1d77b4a"
+    "revision": "2ffb90de47417018651fc3b970e5f6b67214dc9d"
   },
   "gomod": {
-    "revision": "f41a27386f1cfa1271122db5f0ff59b910520007"
+    "revision": "bbe2fe3be4b87e06a613e685250f473d2267f430"
   },
   "gosum": {
     "revision": "e2ac513b2240c7ff1069ae33b2df29ce90777c11"
@@ -213,82 +213,82 @@
     "revision": "949a8a470559543857a62102c84700d291fc984c"
   },
   "gpg": {
-    "revision": "9c26b66d6bca0bd0520269e98241709806561bd5"
+    "revision": "f99323fb8f3f10b6c69db0c2f6d0a14bd7330675"
   },
   "graphql": {
     "revision": "5e66e961eee421786bdda8495ed1db045e06b5fe"
   },
   "groovy": {
-    "revision": "76e02db5866dd2b096512103ed4d8f630cc32980"
+    "revision": "a6cf8f80dd3d5246398ad4011c2e2caf995ee17f"
   },
   "hack": {
     "revision": "fca1e294f6dce8ec5659233a6a21f5bd0ed5b4f2"
   },
   "hare": {
-    "revision": "3d4af179414525a35dd069ba0208c9b71093d8b3"
+    "revision": "4af5d82cf9ec39f67cb1db5b7a9269d337406592"
   },
   "haskell": {
-    "revision": "d7ac98f49e3ed7e17541256fe3881a967d7ffdd3"
+    "revision": "a50070d5bb5bd5c1281740a6102ecf1f4b0c4f19"
   },
   "haskell_persistent": {
     "revision": "577259b4068b2c281c9ebf94c109bd50a74d5857"
   },
   "hcl": {
-    "revision": "b5539065432c08e4118eb3ee7c94902fdda85708"
+    "revision": "9e3ec9848f28d26845ba300fd73c740459b83e9b"
   },
   "heex": {
-    "revision": "4a36c9a388505180da6ee0eda1d8afb8c83481c8"
+    "revision": "b5ad6e34eea18a15bbd1466ca707a17f9bff7b93"
   },
   "hjson": {
     "revision": "02fa3b79b3ff9a296066da6277adfc3f26cbc9e0"
   },
   "hlsl": {
-    "revision": "d698c21dbfcfa1df84cdaaf9dba32cba1e4f92b4"
+    "revision": "80517ca13317fb8591503c0d99f2ad76e8979a72"
   },
   "hocon": {
     "revision": "c390f10519ae69fdb03b3e5764f5592fb6924bcc"
   },
   "hoon": {
-    "revision": "1d5df35af3e0afe592832a67b9fb3feeeba1f7b6"
+    "revision": "a24c5a39d1d7e993a8bee913c8e8b6a652ca5ae8"
   },
   "html": {
-    "revision": "d742025fa2d8e6100f134a6ea990443aa1f074b3"
+    "revision": "e4d834eb4918df01dcad5c27d1b15d56e3bd94cd"
   },
   "htmldjango": {
-    "revision": "717e83aefd328735beeeb671f3f95b2624e70c57"
+    "revision": "ea71012d3fe14dd0b69f36be4f96bdfe9155ebae"
   },
   "http": {
-    "revision": "6824a247d1326079aab4fa9f9164e9319678081d"
+    "revision": "e061995f0caf2fa30f68fa1fdf2c08bcbd4629a8"
   },
   "hurl": {
-    "revision": "cd1a0ada92cc73dd0f4d7eedc162be4ded758591"
+    "revision": "ad705af8c44c737bdb965fc081329c50716d2d03"
   },
   "ini": {
-    "revision": "7f11a02fb8891482068e0fe419965d7bade81a68"
+    "revision": "87176e524f0a98f5be75fa44f4f0ff5c6eac069c"
   },
   "ispc": {
     "revision": "9b2f9aec2106b94b4e099fe75e73ebd8ae707c04"
   },
   "janet_simple": {
-    "revision": "bd9cbaf1ea8b942dfd58e68df10c9a378ab3d2b6"
+    "revision": "3b08641373cb3e37bc531e6e3cdb85d02b454702"
   },
   "java": {
-    "revision": "83044af4950e9f1adb46a20f616d10934930ce7e"
+    "revision": "953abfc8bb3eb2f578e1f461edba4a9885f974b8"
   },
   "javascript": {
-    "revision": "f1e5a09b8d02f8209a68249c93f0ad647b228e6e"
+    "revision": "a92640f158c208ca3be28b560b838b2bd60e8eac"
   },
   "jq": {
     "revision": "13990f530e8e6709b7978503da9bc8701d366791"
   },
   "jsdoc": {
-    "revision": "d01984de49927c979b46ea5c01b78c8ddd79baf9"
+    "revision": "49fde205b59a1d9792efc21ee0b6d50bbd35ff14"
   },
   "json": {
-    "revision": "ca3f8919800e3c1ad4508de3bfd7b0b860ce434f"
+    "revision": "94f5c527b2965465956c2000ed6134dd24daf2a7"
   },
   "json5": {
-    "revision": "5dd5cdc418d9659682556b6adca2dd9ace0ac6d2"
+    "revision": "ab0ba8229d639ec4f3fa5f674c9133477f4b77bd"
   },
   "jsonc": {
     "revision": "02b01653c8a1c198ae7287d566efa86a135b30d5"
@@ -297,22 +297,22 @@
     "revision": "d34615fa12cc1d1cfc1f1f1a80acc9db80ee4596"
   },
   "julia": {
-    "revision": "0c088d1ad270f02c4e84189247ac7001e86fe342"
+    "revision": "f1baa5f8e271109d01cc8ff7473c11df2d8a9aee"
   },
   "kconfig": {
-    "revision": "aaba009ba9d7881f0f81742da588ae70b572316d"
+    "revision": "486fea71f61ad9f3fd4072a118402e97fe88d26c"
   },
   "kdl": {
-    "revision": "e180e05132c4cb229a8ba679b298790ef1eca77c"
+    "revision": "b37e3d58e5c5cf8d739b315d6114e02d42e66664"
   },
   "kotlin": {
-    "revision": "7587b4a7f1c3a0fe4ab41301596f9b4517395a4e"
+    "revision": "c9cb8504b81684375e7beb8907517dbd6947a1be"
   },
   "lalrpop": {
-    "revision": "06ae1b6c26e23c77c7fb86d51dddad62b42e66b0"
+    "revision": "854a40e99f7c70258e522bdb8ab584ede6196e2e"
   },
   "latex": {
-    "revision": "2ae2021d7b224fb6aa57b760e0d146059f943bb8"
+    "revision": "12523bd1ffd2c428b2dad177e2b4555574d90973"
   },
   "ledger": {
     "revision": "8a841fb20ce683bfbb3469e6ba67f2851cfdf94a"
@@ -321,55 +321,55 @@
     "revision": "1b96e58faf558ce057d4dc664b904528aee743cb"
   },
   "lua": {
-    "revision": "9668709211b2e683f27f414454a8b51bf0a6bda1"
+    "revision": "a24dab177e58c9c6832f96b9a73102a0cfbced4a"
   },
   "luadoc": {
-    "revision": "990926b13488a4bc0fc0804fc0f8400b5b0a1fb4"
+    "revision": "873612aadd3f684dd4e631bdf42ea8990c57634e"
   },
   "luap": {
-    "revision": "31461ae9bd0866cb5117cfe5de71189854fd0f3e"
+    "revision": "c134aaec6acf4fa95fe4aa0dc9aba3eacdbbe55a"
   },
   "luau": {
-    "revision": "6953cd4fa5967c9aa3c769b4e4c7e69c904b9fa9"
+    "revision": "fbadc96272f718dba267628ba7b0e694c368cef3"
   },
   "m68k": {
-    "revision": "d097b123f19c6eaba2bf181c05420d88b9fc489d"
+    "revision": "9e082a2253c50eb3d80e84bbd635e57cfb1476a2"
   },
   "make": {
     "revision": "a4b9187417d6be349ee5fd4b6e77b4172c6827dd"
   },
   "markdown": {
-    "revision": "aaf76797aa8ecd9a5e78e0ec3681941de6c945ee"
+    "revision": "7fe453beacecf02c86f7736439f238f5bb8b5c9b"
   },
   "markdown_inline": {
-    "revision": "aaf76797aa8ecd9a5e78e0ec3681941de6c945ee"
+    "revision": "7fe453beacecf02c86f7736439f238f5bb8b5c9b"
   },
   "matlab": {
-    "revision": "6071891a8c39600203eba20513666cf93b4d650a"
+    "revision": "2825fb578325ac308945318881445a89ea06e0f6"
   },
   "menhir": {
     "revision": "be8866a6bcc2b563ab0de895af69daeffa88fe70"
   },
   "mermaid": {
-    "revision": "e26a5f8898a8174f02b4cc9a9050eb3ccfb799f3"
+    "revision": "90ae195b31933ceb9d079abfa8a3ad0a36fee4cc"
   },
   "meson": {
-    "revision": "3d6dfbdb2432603bc84ca7dc009bb39ed9a8a7b1"
+    "revision": "bd17c824196ce70800f64ad39cfddd1b17acc13f"
   },
   "mlir": {
-    "revision": "e2053f7c8856d91bc36c87604f697784845cee69"
+    "revision": "affbd6f3b08155826a22cfa8373147acbf60f1f1"
   },
   "nickel": {
-    "revision": "b759233581fd8bae239e905c67a9ba453205da78"
+    "revision": "3039ad9e9af3c1ffe049a04ee83a2b489915b0b9"
   },
   "ninja": {
     "revision": "0a95cfdc0745b6ae82f60d3a339b37f19b7b9267"
   },
   "nix": {
-    "revision": "66e3e9ce9180ae08fc57372061006ef83f0abde7"
+    "revision": "0fdada10f1f845ca9116e279ad8f5d0ca93e9949"
   },
   "norg": {
-    "revision": "014073fe8016d1ac440c51d22c77e3765d8f6855"
+    "revision": "aa1a1a7ded81a094cc3d5cb14bea6f34b86d8688"
   },
   "nqc": {
     "revision": "14e6da1627aaef21d2b2aa0c37d04269766dcc1d"
@@ -378,49 +378,49 @@
     "revision": "62e61b6f5c0289c376d61a8c91faf6435cde9012"
   },
   "ocaml": {
-    "revision": "694c57718fd85d514f8b81176038e7a4cfabcaaf"
+    "revision": "036226e5edb410aec004cc7ac0f4b2014dd04a0e"
   },
   "ocaml_interface": {
-    "revision": "694c57718fd85d514f8b81176038e7a4cfabcaaf"
+    "revision": "036226e5edb410aec004cc7ac0f4b2014dd04a0e"
   },
   "ocamllex": {
     "revision": "4b9898ccbf198602bb0dec9cd67cc1d2c0a4fad2"
   },
   "odin": {
-    "revision": "d165dbee27617dab2653e38737d96ede1030d14f"
+    "revision": "d37b8f24f653378b268ec18404e9c14ad355b128"
   },
   "org": {
     "revision": "64cfbc213f5a83da17632c95382a5a0a2f3357c1"
   },
   "pascal": {
-    "revision": "9e995404ddff8319631d72d4b46552e737206912"
+    "revision": "a9ee969dec5b2e3b2ccccc5954fec04100c7619e"
   },
   "passwd": {
     "revision": "20239395eacdc2e0923a7e5683ad3605aee7b716"
   },
   "pem": {
-    "revision": "e01767921df18142055d97407595329d7629e643"
+    "revision": "217ff2af3f2db15a79ab7e3d21ea1e0c17e71a1a"
   },
   "perl": {
-    "revision": "79e88f64681660f3961939bf764d8f3b4bbb0d27"
+    "revision": "8b554de277956a96f3e618b727d0ed4d4e564676"
   },
   "php": {
-    "revision": "92a98adaa534957b9a70b03e9acb9ccf9345033a"
+    "revision": "575a0801f430c8672db70b73493c033a9dcfc328"
   },
   "phpdoc": {
-    "revision": "915a527d5aafa81b31acf67fab31b0ac6b6319c0"
+    "revision": "1d0e255b37477d0ca46f1c9e9268c8fa76c0b3fc"
   },
   "pioasm": {
     "revision": "924aadaf5dea2a6074d72027b064f939acf32e20"
   },
   "po": {
-    "revision": "d6aed225290bc71a15ab6f06305cb11419360c56"
+    "revision": "bd860a0f57f697162bf28e576674be9c1500db5e"
   },
   "poe_filter": {
-    "revision": "d7b43b51f92fb19efe8af45c2246087c611c8f63"
+    "revision": "592476d81f95d2451f2ca107dc872224c76fecdf"
   },
   "pony": {
-    "revision": "16f930b250433cfcd4fb4144df92bb98ad344c20"
+    "revision": "73ff874ae4c9e9b45462673cbc0a1e350e2522a7"
   },
   "prisma": {
     "revision": "eca2596a355b1a9952b4f80f8f9caed300a272b5"
@@ -435,79 +435,79 @@
     "revision": "09e158cd3650581c0af4c49c2e5b10c4834c8646"
   },
   "psv": {
-    "revision": "6c1957405bd6f7751b050f61367f1094fab91444"
+    "revision": "7eb7297823605392d2bbcc4c09b1cd18d6fa9529"
   },
   "pug": {
     "revision": "a7ff31a38908df9b9f34828d21d6ca5e12413e18"
   },
   "puppet": {
-    "revision": "9ce9a5f7d64528572aaa8d59459ba869e634086b"
+    "revision": "584522f32495d648b18a53ccb52d988e60de127d"
   },
   "pymanifest": {
-    "revision": "8953f91d733dd92c1ac43b3d58a7a2f43fa62dae"
+    "revision": "be062582956165019d3253794b4d712f66dfeaaa"
   },
   "python": {
-    "revision": "a901729099257aac932d79c60adb5e8a53fa7e6c"
+    "revision": "0dee05ef958ba2eae88d1e65f24b33cad70d4367"
   },
   "ql": {
-    "revision": "bd087020f0d8c183080ca615d38de0ec827aeeaf"
+    "revision": "42becd6f8f7bae82c818fa3abb1b6ff34b552310"
   },
   "qmldir": {
     "revision": "6b2b5e41734bd6f07ea4c36ac20fb6f14061c841"
   },
   "qmljs": {
-    "revision": "35ead5b9955cdb29bcf709d622fa960ff33992b6"
+    "revision": "febf48a5b6928600cd8fb2a01254743af550780d"
   },
   "query": {
-    "revision": "3a9808b22742d5bd906ef5d1a562f2f1ae57406d"
+    "revision": "f767fb0ac5e711b6d44c5e0c8d1f349687a86ce0"
   },
   "r": {
-    "revision": "c55f8b4dfaa32c80ddef6c0ac0e79b05cb0cbf57"
+    "revision": "b1e211f52ad8f8e1e182bbbcc16dcd5e3688eb7d"
   },
   "racket": {
-    "revision": "e4ba1a9674a3b4dd7905d04f194ae6f8331be342"
+    "revision": "171f52a8c0ed635b85cd42d1e36d82f1066a03b4"
   },
   "rasi": {
-    "revision": "371dac6bcce0df5566c1cfebde69d90ecbeefd2d"
+    "revision": "6c9bbcfdf5f0f553d9ebc01750a3aa247a37b8aa"
   },
   "re2c": {
     "revision": "47aa19cf5f7aba2ed30e2b377f7172df76e819a6"
   },
   "regex": {
-    "revision": "2354482d7e2e8f8ff33c1ef6c8aa5690410fbc96"
+    "revision": "47007f195752d8e57bda80b0b6cdb2d173a9f7d7"
   },
   "rego": {
-    "revision": "b2667c975f07b33be3ceb83bea5cfbad88095866"
+    "revision": "20b5a5958c837bc9f74b231022a68a594a313f6d"
   },
   "requirements": {
-    "revision": "eda424eade0f2afbafbf0c89d18c77818fa19273"
+    "revision": "5ad9b7581b3334f6ad492847d007f2fac6e6e5f2"
   },
   "rnoweb": {
-    "revision": "502c1126dc6777f09af5bef16e72a42f75bd081e"
+    "revision": "1a74dc0ed731ad07db39f063e2c5a6fe528cae7f"
   },
   "robot": {
     "revision": "322e4cc65754d2b3fdef4f2f8a71e0762e3d13af"
   },
   "ron": {
-    "revision": "ce6086b2c9e8e71065b8129d6c2289c5f66d1879"
+    "revision": "78938553b93075e638035f624973083451b29055"
   },
   "rst": {
-    "revision": "2ca8c123c82ca41f41b66b5d13d403cff0204b78"
+    "revision": "5120f6e59284cb8b85b450bd2db0bd352635ba9f"
   },
   "ruby": {
-    "revision": "f257f3f57833d584050336921773738a3fd8ca22"
+    "revision": "0ffe457fb6aabf064f173fd30ea356845cef2513"
   },
   "rust": {
-    "revision": "48e053397b587de97790b055a1097b7c8a4ef846"
+    "revision": "9c84af007b0f144954adb26b3f336495cbb320a7"
   },
   "scala": {
-    "revision": "1b4c2fa5c55c5fd83cbb0d2f818f916aba221a42"
+    "revision": "a13f2d1ee9609cc5c4c8ffce9640c353b77a24d8"
   },
   "scfg": {
-    "revision": "6deae0cbb458c849a4d1e2985093e9c9c32d7fd0"
+    "revision": "a5512800ea0220da4abbae61b8aea8423d1549aa"
   },
   "scheme": {
-    "revision": "85b6188fb77c03dfb01d13e58e2844450506860c"
+    "revision": "8f9dff3d038f09934db5ea113cebc59c74447743"
   },
   "scss": {
     "revision": "c478c6868648eff49eb04a4df90d703dc45b312a"
@@ -519,49 +519,49 @@
     "revision": "72e334b2630f5852825ba5ff9dfd872447175eb5"
   },
   "smithy": {
-    "revision": "cf8c7eb9faf7c7049839585eac19c94af231e6a0"
+    "revision": "fa898ac0885d1da9a253695c3e0e91f5efc587cd"
   },
   "snakemake": {
-    "revision": "65a6c3b4671877821082164da0a310851b211953"
+    "revision": "46d4de8e6cfca8a97c0489aea936bb15beeaf666"
   },
   "solidity": {
-    "revision": "168020304759ad5d8b4a88a541a699134e3730c5"
+    "revision": "ee5a2d2ba30b487c4bbf613d2ef310a454c09c7c"
   },
   "soql": {
-    "revision": "a768c956b6aee72ffebb5df7f7c0b3702eaa2fbd"
+    "revision": "c99ad4b16d112fea91745e3f1b769754239fdaba"
   },
   "sosl": {
-    "revision": "a768c956b6aee72ffebb5df7f7c0b3702eaa2fbd"
+    "revision": "c99ad4b16d112fea91745e3f1b769754239fdaba"
   },
   "sparql": {
-    "revision": "05f949d3c1c15e3261473a244d3ce87777374dec"
+    "revision": "d853661ca680d8ff7f8d800182d5782b61d0dd58"
   },
   "sql": {
-    "revision": "4c2eeb19cb3daff46ee9d87df77748724bd8344d"
+    "revision": "91c5ce054925728109f90d5c057cbf5b47f93fda"
   },
   "squirrel": {
-    "revision": "e8b5835296f931bcaa1477d3c5a68a0c5c2ba034"
+    "revision": "072c969749e66f000dba35a33c387650e203e96e"
   },
   "ssh_config": {
-    "revision": "e4008633536870f3fed3198c96503250af0b0a12"
+    "revision": "77450e8bce8853921512348f83c73c168c71fdfb"
   },
   "starlark": {
-    "revision": "c45ce2b39062bbd12ea1c210bd200db250efb24a"
+    "revision": "018d0e09d9d0f0dd6740a37682b8ee4512e8b2ac"
   },
   "strace": {
-    "revision": "0dc85e4cfcd0cc4b33f855ddb782d81d1297bf6e"
+    "revision": "d819cdd5dbe455bd3c859193633c8d91c0df7c36"
   },
   "supercollider": {
-    "revision": "3b35bd0fded4423c8fb30e9585c7bacbcd0e8095"
+    "revision": "affa4389186b6939d89673e1e9d2b28364f5ca6f"
   },
   "surface": {
     "revision": "f4586b35ac8548667a9aaa4eae44456c1f43d032"
   },
   "svelte": {
-    "revision": "697bb515471871e85ff799ea57a76298a71a9cca"
+    "revision": "ea528fc9985aed8d93c9f438c185644a33d011af"
   },
   "swift": {
-    "revision": "10eb01d29827f24b1271672e89790661d94da9e1"
+    "revision": "b3dc8cc5c266effd7bcfde01aa086b83927f2eda"
   },
   "sxhkdrc": {
     "revision": "440d5f913d9465c9c776a1bd92334d32febcf065"
@@ -570,79 +570,79 @@
     "revision": "1af543a96d060b1f808982037bfc54cc02218edd"
   },
   "t32": {
-    "revision": "c544082904fd1d27da5493857bd3fc278bae2a1a"
+    "revision": "6182836f4128725f1e74ce986840d7317021a015"
   },
   "tablegen": {
-    "revision": "300f6a490e71f895e644ed2deec6920860a2e107"
+    "revision": "b1170880c61355aaf38fc06f4af7d3c55abdabc4"
   },
   "teal": {
-    "revision": "33482c92a0dfa694491d34e167a1d2f52b0dccb1"
+    "revision": "19b02da829d1721a521bf7b802eb80a50bd53aab"
   },
   "terraform": {
-    "revision": "b5539065432c08e4118eb3ee7c94902fdda85708"
+    "revision": "9e3ec9848f28d26845ba300fd73c740459b83e9b"
   },
   "textproto": {
     "revision": "8dacf02aa402892c91079f8577998ed5148c0496"
   },
   "thrift": {
-    "revision": "d4deb1bd9e848f2dbe81103a151d99e8546de480"
+    "revision": "68fd0d80943a828d9e6f49c58a74be1e9ca142cf"
   },
   "tiger": {
     "revision": "a7f11d946b44244f71df41d2a78af0665d618dae"
   },
   "tlaplus": {
-    "revision": "7ba226cf85280c7917d082940022006e6a3b7b6f"
+    "revision": "bba02e79f85e335f310fc95e21c677e49f2c4439"
   },
   "todotxt": {
-    "revision": "0207f6a4ab6aeafc4b091914d31d8235049a2578"
+    "revision": "3937c5cd105ec4127448651a21aef45f52d19609"
   },
   "toml": {
     "revision": "8bd2056818b21860e3d756b5a58c4f6e05fb744e"
   },
   "tsv": {
-    "revision": "6c1957405bd6f7751b050f61367f1094fab91444"
+    "revision": "7eb7297823605392d2bbcc4c09b1cd18d6fa9529"
   },
   "tsx": {
-    "revision": "b1bf4825d9eaa0f3bdeb1e52f099533328acfbdf"
+    "revision": "198d03553f43a45b92ac5d0ee167db3fec6a6fd6"
   },
   "turtle": {
-    "revision": "085437f5cb117703b7f520dd92161140a684f092"
+    "revision": "7f789ea7ef765080f71a298fc96b7c957fa24422"
   },
   "twig": {
-    "revision": "779ee5ab1e065dcef7f51f253030dc875445b25f"
+    "revision": "085648e01d1422163a1702a44e72303b4e2a0bd1"
   },
   "typescript": {
-    "revision": "b1bf4825d9eaa0f3bdeb1e52f099533328acfbdf"
+    "revision": "198d03553f43a45b92ac5d0ee167db3fec6a6fd6"
   },
   "ungrammar": {
     "revision": "debd26fed283d80456ebafa33a06957b0c52e451"
   },
   "unison": {
-    "revision": "694c8c0c79f8d1b80d497401acf4d1b77bfb004a"
+    "revision": "59d36a09282be7e4d3374854126590f3dcebee6e"
   },
   "usd": {
-    "revision": "718a6b3e939904e0b4fe7cff6742e96af4781f4b"
+    "revision": "4e0875f724d94d0c2ff36f9b8cb0b12f8b20d216"
   },
   "uxntal": {
-    "revision": "4c5ecd6326ebd61f6f9a22a370cbd100e0d601da"
+    "revision": "ad9b638b914095320de85d59c49ab271603af048"
   },
   "v": {
-    "revision": "e14fdf6e661b10edccc744102e4ccf0b187aa8ad"
+    "revision": "fb9e7d960806c3d652c9af8a53b43f81dea9ff95"
   },
   "vala": {
     "revision": "8f690bfa639f2b83d1fb938ed3dd98a7ba453e8b"
   },
   "verilog": {
-    "revision": "902031343056bc0b11f3e47b33f036a9cf59f58d"
+    "revision": "075ebfc84543675f12e79a955f79d717772dcef3"
   },
   "vhs": {
-    "revision": "375b42e9845f704dd491c17c7e37f7c972e0faf3"
+    "revision": "90028bbadb267ead5b87830380f6a825147f0c0f"
   },
   "vim": {
-    "revision": "32c76f150347c1cd044e90b8e2bc73c00677fa55"
+    "revision": "b448ca63f972ade12c373c808acdd2bf972937db"
   },
   "vimdoc": {
-    "revision": "c0f85802485afe4d15e65bbf995ae864bb8ed7c4"
+    "revision": "2249c44ecd3f5cf22da3dcccfb74f816ddb29245"
   },
   "vue": {
     "revision": "91fe2754796cd8fba5f229505a23fa08f3546c06"
@@ -651,13 +651,13 @@
     "revision": "40259f3c77ea856841a4e0c4c807705f3e4a2b65"
   },
   "wgsl_bevy": {
-    "revision": "a041228ae64632f59b9bd37346a0dbcb7817f36b"
+    "revision": "0f06f24e259ac725045956436b9025dab008ff9f"
   },
   "wing": {
-    "revision": "101558a99a184e1110827bd293f2a8220a4b4992"
+    "revision": "6e7c63138e8eec24465f373e594fabd689836058"
   },
   "xml": {
-    "revision": "9deacbfb79cb3527a0396255beb17e1bba3f2052"
+    "revision": "809266ed1694d64dedc168a18893cc254e3edf7e"
   },
   "yaml": {
     "revision": "0e36bed171768908f331ff7dff9d956bae016efb"
@@ -666,9 +666,9 @@
     "revision": "2c0e6be8dd4dcb961c345fa35c309ad4f5bd3502"
   },
   "yuck": {
-    "revision": "c348825d3f86dec71dee0e1223c6bd73114e3579"
+    "revision": "e877f6ade4b77d5ef8787075141053631ba12318"
   },
   "zig": {
-    "revision": "0d08703e4c3f426ec61695d7617415fff97029bd"
+    "revision": "2bac4cc6c697d46a193905fef6d003bfa0bfabfd"
   }
 }
